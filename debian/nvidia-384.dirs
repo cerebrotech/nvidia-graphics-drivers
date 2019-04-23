@@ -22,3 +22,5 @@
 /lib/udev/rules.d
 /usr/share/vulkan/icd.d
 /usr/share/X11/xorg.conf.d
+/usr/lib32/nvidia-384
+/usr/lib32/vdpau
